@@ -4,7 +4,7 @@ Nasimi here. I am a person who motivated by continuously learning and tackling n
 
 *********
 
-- 💻 I work at **@proxify-ab**
+- 💻 Currently a freelancer
 - ❤️️ Created and now maintaining **[affiliate.az](https://affiliate.az)**
 - 👨‍💻 Building with **Laravel**
 - 📚 Learning and practicing **Symfony**
