@@ -5,7 +5,6 @@ Nasimi here. I am a person who motivated by continuously learning and tackling n
 *********
 
 - 💻 Currently a freelancer
-- ❤️️ Created and now maintaining **[affiliate.az](https://affiliate.az)**
 - 👨‍💻 Building with **Laravel**
 - 📚 Learning and practicing **Symfony**
 - 🎵 Music keeps me alive and inspires
