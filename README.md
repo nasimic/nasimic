@@ -5,11 +5,7 @@ Nasimi here. I am a person who motivated by continuously learning and tackling n
 *********
 
 - 💻 Currently a freelancer
-- 👨‍💻 Building with **Laravel**
-- 📚 Learning and practicing **Symfony**
-- 🎵 Music keeps me alive and inspires
-- 🚶 Walking everyday. Helps me explore new ideas
-- 💬 Feel free to ask me about web development or anything
+- 👨‍💻 Building with **Symfony** and **Laravel**
 - 📫 Reach me at [nsm93m@gmail.com](mailto:nsm93m@gmail.com)
 
 ## Social
